@@ -9,7 +9,7 @@
     "start": "node server.js",
     "dev": "nodemon server.js"
   },
-  "author": "Alina Bylkova <bylkova11@gmail.com>",
+  "author": "Alina Bylkova",
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.19.0",
